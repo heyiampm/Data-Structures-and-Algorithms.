@@ -1,4 +1,5 @@
 // Even & Odd Number Check.
+
 #include<iostream>
 using namespace std;
 int main(){
