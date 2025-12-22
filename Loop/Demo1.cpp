@@ -1,4 +1,4 @@
-// print number 1 to 5
+// print number 1 to 5.
 
 #include<iostream>
 using namespace std;

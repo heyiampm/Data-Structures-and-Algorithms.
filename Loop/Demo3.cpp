@@ -1,4 +1,4 @@
-// For loop
+// For loop.
 
 #include<iostream>
 using namespace std;
