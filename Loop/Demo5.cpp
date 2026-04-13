@@ -1,5 +1,3 @@
-//
-
 // #include<iostream>
 // using namespace std;
 // int main(){
@@ -10,8 +8,6 @@
 //           } while(2>5);
 //           return 0;
 // }
-
-
 
 #include<iostream>
 using namespace std;
